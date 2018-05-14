@@ -1,0 +1,12 @@
+Taylor Casselman
+====================
+
+IOCCC Entry
+-----------
+
+My entry takes in two integers from stdin, like ./prog 15 5
+It then RETURNS the value of the greatest common denominator of the two integers.
+
+It's obfuscated with some simple #define statements and also a multitude of variations of different combinations of "l" and "1" for variable names, function names, etc.
+It's not terribly complex but it was my first time trying anything like this, so I had fun.
+Thanks for reading!
